@@ -1,0 +1,10 @@
+{
+  "nome": "APK build 1",
+  "arquivo": "apk-build-1",
+  "pacote": "com.maikonadvogadomgalt.apkbuild1",
+  "versao": "1.0",
+  "versaoCodigo": 1,
+  "cor": "#0f1420",
+  "orientacao": "unspecified",
+  "lacre": false
+}
