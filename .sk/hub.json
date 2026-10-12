@@ -1,0 +1,24 @@
+{
+  "titulo": "APK build 1",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "baixar.html",
+      "nome": "Instalar Aplicativos — Maikon",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "index.html",
+      "nome": "APK Builder",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
